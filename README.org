@@ -11,7 +11,6 @@ Endgame wireless split ergo keeb with low-profile switches and keycaps
 3. Colemak DH with home row mods -- really comfy
 
 The philosophy of the layout revolves around toggeling between layers to make up for only having 36 keys.
-
 Base layer - 1:
 - Colemak Mod-DH.
 - Home-row modifiers to have the modifier keys at the most comfortable positions.
